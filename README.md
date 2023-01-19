@@ -1,4 +1,4 @@
-# UnpackableHoneyBlocks
+# Honey Tweaks
 Basic crafting tweaks which allow you to uncraft honey blocks and honeycomb blocks.
 
 
@@ -9,4 +9,4 @@ Basic crafting tweaks which allow you to uncraft honey blocks and honeycomb bloc
 ![other grid](https://cdn.driver.fyi/r/crafting-grids.jpg)
 
 # Installation
-Follow the steps on the wiki(https://github.com/Itsyourdriver/UnpackableHoneyBlocks/wiki)
+Follow the steps on the wiki(https://github.com/Itsyourdriver/HoneyTweaks/wiki)
